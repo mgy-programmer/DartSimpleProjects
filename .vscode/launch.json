@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "Part_1/dart_tutorial_4.dart",
+            "program": "Part_2/dart_bolum20_oop_abstrct.dart",
             "request": "launch",
             "type": "dart"
         }
