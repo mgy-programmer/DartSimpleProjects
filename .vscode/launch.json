@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "Part_2/dart_bolum20_oop_abstrct.dart",
+            "program": "Part_2/dart_bolum22_oop_staticMethod.dart",
             "request": "launch",
             "type": "dart"
         }
