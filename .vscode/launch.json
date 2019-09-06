@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "Part_2/dart_bolum22_oop_staticMethod.dart",
+            "program": "Part_2/dart_bolum23_lambda.dart",
             "request": "launch",
             "type": "dart"
         }
