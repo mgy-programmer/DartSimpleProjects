@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "Part_2/dart_bolum23_lambda.dart",
+            "program": "Part_2/dart_bolum26_futureAwaidAsync.dart",
             "request": "launch",
             "type": "dart"
         }
